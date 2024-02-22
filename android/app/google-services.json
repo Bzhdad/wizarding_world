@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242795678972",
+    "project_id": "wizarding-school",
+    "storage_bucket": "wizarding-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242795678972:android:df4c5c4d192c51a76d1b79",
+        "android_client_info": {
+          "package_name": "com.bzhdad.wizardingschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUBoIjFmxKdWrd_f2JujrtUH4YnZkwtjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
